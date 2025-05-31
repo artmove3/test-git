@@ -8,3 +8,4 @@
 8. git branch ?[branch_name] - отображает текущую ветку, при указании [branch_name] создает ветку с этим именем, флаг -d удаляет ветку
 9. git checkout [branch_name] - переключается на указанную ветку
 10. git pull [rep_link] [branch_name]
+11. git merge [branch_name] - объединяет указанную ветку с текущей
